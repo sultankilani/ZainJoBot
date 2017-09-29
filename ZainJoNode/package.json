@@ -1,0 +1,19 @@
+{
+  "name": "ZainJoNode",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "salkila",
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {
+    "karma": "^1.7.0"
+  }, "scripts":{
+"start":"node index.js"}
+
+}

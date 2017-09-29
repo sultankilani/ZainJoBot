@@ -1,0 +1,5 @@
+{
+  "ACCOUNT_TYPES": "checking,savings,credit card",
+  "TXN_TYPES": "deposits,withdrawals,payments,checks,debits,credits",
+  "ACCOUNT_ALIASES": "Lauren,Sasha,Mom,Chase Preferred,the babysitter"
+}
